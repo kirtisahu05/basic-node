@@ -33,6 +33,7 @@ build:
 
 # Integrations are used to connect external resources to CI
 # http://docs.shippable.com/integrations/overview/
+# test msg
 integrations:
 
   # http://docs.shippable.com/ci/shippableyml/#notifications
